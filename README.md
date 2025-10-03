@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Chuong  
 
-<!--
-**Phamdinhchuong1001/Phamdinhchuong1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate **Mobile Developer** focusing on **Flutter** & **Dart**  
+🌱 Currently learning **Backend (Node.js, Express, MongoDB)**  
+🚀 I love building apps that make life easier and exploring open source.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 📱 Mobile: Flutter, Dart  
+- 🌐 Web: HTML, CSS, JavaScript  
+- ⚙️ Backend: Node.js, Express, MongoDB  
+- 🛠 Tools: Git, GitHub, VS Code, Figma  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phamdinhlchuong1001&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phamdinhlchuong1001&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+- 📧 Email: chuongpham10012004@gmail.com  
+ 
